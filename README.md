@@ -1,6 +1,6 @@
 # Emotion Classification: LSTM vs BiLSTM vs BiRNN vs Transformer
 
-AI454 — Natural Language Processing, Assignment 2
+
 
 **Author:** Jana Ashour
 
